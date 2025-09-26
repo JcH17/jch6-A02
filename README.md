@@ -1,14 +1,15 @@
 # jch6-A02
 Repo created for IS117 a02
+
 **Software to Install**
-Git (required): https://git-scm.com/downloads
-Windows direct link: https://git-scm.com/downloads/win
-macOS options (Homebrew/MacPorts): https://git-scm.com/downloads/mac
-Linux: https://git-scm.com/downloads/linux
+* Git (required): https://git-scm.com/downloads
+* Windows direct link: https://git-scm.com/downloads/win
+* macOS options (Homebrew/MacPorts): https://git-scm.com/downloads/mac
+* Linux: https://git-scm.com/downloads/linux
 
-GitHub account (free): https://github.com/signup
+* GitHub account (free): https://github.com/signup
 
-WebStorm (IDE): https://www.jetbrains.com/webstorm/download/
+* WebStorm (IDE): https://www.jetbrains.com/webstorm/download/
 
 Directions for using webstorm with git/github
 * Install Git using the links above (Windows/macOS/Linux)
