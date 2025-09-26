@@ -11,26 +11,26 @@ Repo created for IS117 a02
 
 * WebStorm (IDE): https://www.jetbrains.com/webstorm/download/
 
-Directions for using webstorm with git/github
-* Install Git using the links above (Windows/macOS/Linux)
+**Directions for using webstorm with git/github
+* Install Git using the links above (Windows/macOS/Linux)[2,8]
 * Install WebStorm and start it
-* Create or sign in to your GitHub account
-* Open Settings
-* Go to Version Control | Git and verify the Path to Git executable (WebStorm often auto-detects it). 
-* Click Test; you should see “Git executed successfully.”
-* Click OK.
-* Open Settings -> Version Control -> GitHub, click Add account, then log in via GitHub and authorize JetBrains in the browser window
+* Create or sign in to your GitHub account[9]
+* Open Settings[3]
+* Go to Version Control | Git and verify the Path to Git executable (WebStorm often auto-detects it). [3]
+* Click Test; you should see “Git executed successfully.”[3]
+* Click OK.[3]
+* Open Settings -> Version Control -> GitHub, click Add account, then log in via GitHub and authorize JetBrains in the browser window[4]
 * Create a project in WebStorm
-* Open the project, then go VCS -> Enable Version Control Integration -> Git
-* Go Git -> Commit (or use the Commit tool window), write a short message, and Commit
-* Go Git -> GitHub -> Share Project on GitHub
-* Open the repo -> click Code -> copy the HTTPS or SSH URL. 
-* On the Welcome screen click Get from VCS, paste the URL, choose a local folder, and click Clone.
-* Pull (or Fetch) before you start
-* Make your changes and Commit often
-* Push changes when ready
+* Open the project, then go VCS -> Enable Version Control Integration -> Git[3]
+* Go Git -> Commit (or use the Commit tool window), write a short message, and Commit[5]
+* Go Git -> GitHub -> Share Project on GitHub[4]
+* Open the repo -> click Code -> copy the HTTPS or SSH URL[10]
+* On the Welcome screen click Get from VCS, paste the URL, choose a local folder, and click Clone.[3,4,10]
+* Pull (or Fetch) before you start[6]
+* Make your changes and Commit often[5]
+* Push changes when ready[5]
 
-Glossary
+**Glossary**
 * **Branch**: A movable pointer to a series of commits, used to develop features or fixes in isolation before merging back
 * **Clone**: A local copy of a remote repository, including all history, branches, and files
 * **Commit**: A snapshot of changes in your repository, recorded with a unique ID and message
@@ -43,3 +43,15 @@ Glossary
 * **Pull**: Fetching from the remote and then merging into your current branch
 * **Remote**: A named reference to a repository hosted elsewhere
 * **Repository**: The project’s database of files and full history. It can be local (on your computer) or remote (on GitHub)
+
+**Resources**
+* [1]Hendela, A. Introduction to GitHub and WebStorm (IS117)
+* [2]Hendela, A. Additional Instructions on Creating a Git & GitHub Repository
+* [3]JetBrains — Set up a Git repository (WebStorm Help)
+* [4]JetBrains — Manage projects hosted on GitHub (Share/Clone from WebStorm)
+* [5]JetBrains — Commit and push changes
+* [6]JetBrains — Sync with a remote repository (fetch/pull/update)
+* [7]JetBrains — Tutorial: Getting started with Git in WebStorm (branches/merges/conflicts) 
+* [8]Git — Downloads (Windows/macOS/Linux) and Installing Git
+* [9]GitHub Docs — Creating an account on GitHub.
+* [10]GitHub Docs — Cloning a repository
