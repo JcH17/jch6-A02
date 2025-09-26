@@ -11,23 +11,23 @@ GitHub account (free): https://github.com/signup
 WebStorm (IDE): https://www.jetbrains.com/webstorm/download/
 
 Directions for using webstorm with git/github
-*Install Git using the links above (Windows/macOS/Linux)
-*Install WebStorm and start it
-*Create or sign in to your GitHub account
-*Open Settings
-*Go to Version Control | Git and verify the Path to Git executable (WebStorm often auto-detects it). 
-*Click Test; you should see “Git executed successfully.”
-*Click OK.
-*Open Settings -> Version Control -> GitHub, click Add account, then log in via GitHub and authorize JetBrains in the browser window
-*Create a project in WebStorm
-*Open the project, then go VCS -> Enable Version Control Integration -> Git
-*Go Git -> Commit (or use the Commit tool window), write a short message, and Commit
-*Go Git -> GitHub -> Share Project on GitHub
-*Open the repo -> click Code -> copy the HTTPS or SSH URL. 
-*On the Welcome screen click Get from VCS, paste the URL, choose a local folder, and click Clone.
-*Pull (or Fetch) before you start
-*Make your changes and Commit often
-*Push changes when ready
+* Install Git using the links above (Windows/macOS/Linux)
+* Install WebStorm and start it
+* Create or sign in to your GitHub account
+* Open Settings
+* Go to Version Control | Git and verify the Path to Git executable (WebStorm often auto-detects it). 
+* Click Test; you should see “Git executed successfully.”
+* Click OK.
+* Open Settings -> Version Control -> GitHub, click Add account, then log in via GitHub and authorize JetBrains in the browser window
+* Create a project in WebStorm
+* Open the project, then go VCS -> Enable Version Control Integration -> Git
+* Go Git -> Commit (or use the Commit tool window), write a short message, and Commit
+* Go Git -> GitHub -> Share Project on GitHub
+* Open the repo -> click Code -> copy the HTTPS or SSH URL. 
+* On the Welcome screen click Get from VCS, paste the URL, choose a local folder, and click Clone.
+* Pull (or Fetch) before you start
+* Make your changes and Commit often
+* Push changes when ready
 
 Glossary
 * **Branch**: A movable pointer to a series of commits, used to develop features or fixes in isolation before merging back
